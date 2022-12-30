@@ -6,6 +6,7 @@ authors = ["RedstoneWizard08"]
 license = "MIT"
 homepage = "https://github.com/RedstoneWizard08/simple-semver"
 repository = "https://github.com/RedstoneWizard08/simple-semver"
+description = "A simple SemVer library for Rust."
 
 [dependencies]
 regex = "1.7.0"
