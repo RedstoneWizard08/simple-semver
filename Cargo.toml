@@ -2,6 +2,10 @@
 name = "simple-semver"
 version = "0.1.0"
 edition = "2021"
+authors = ["RedstoneWizard08"]
+license = "MIT"
+homepage = "https://github.com/RedstoneWizard08/simple-semver"
+repository = "https://github.com/RedstoneWizard08/simple-semver"
 
 [dependencies]
 regex = "1.7.0"
